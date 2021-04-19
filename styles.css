@@ -1,20 +1,30 @@
+a{
+  text-decoration: none;
+}
+
 body {
   text-align: center;
   background-color: #011F3F;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 10%;
   color: #EEEEEE;
-  text-align: center;
+  text-align: right;
   font-family: 'Indie Flower', cursive;
 
 }
 
+h2{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+  margin:  0%;
+  color: #FEF2BF;
+}
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin:  3%;
   color: #FEF2BF;
 }
 
